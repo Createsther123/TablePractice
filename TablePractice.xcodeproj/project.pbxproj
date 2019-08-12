@@ -14,6 +14,7 @@
 		430BCCF82301EAD9003B0B0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 430BCCF62301EAD9003B0B0E /* LaunchScreen.storyboard */; };
 		430BCD032301EAD9003B0B0E /* TablePracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430BCD022301EAD9003B0B0E /* TablePracticeTests.swift */; };
 		430BCD0E2301EAD9003B0B0E /* TablePracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430BCD0D2301EAD9003B0B0E /* TablePracticeUITests.swift */; };
+		430BCD1C2301F34D003B0B0E /* EduTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 430BCD1B2301F34D003B0B0E /* EduTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		430BCD092301EAD9003B0B0E /* TablePracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TablePracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		430BCD0D2301EAD9003B0B0E /* TablePracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablePracticeUITests.swift; sourceTree = "<group>"; };
 		430BCD0F2301EAD9003B0B0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		430BCD1B2301F34D003B0B0E /* EduTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EduTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				430BCCF42301EAD9003B0B0E /* Assets.xcassets */,
 				430BCCF62301EAD9003B0B0E /* LaunchScreen.storyboard */,
 				430BCCF92301EAD9003B0B0E /* Info.plist */,
+				430BCD1B2301F34D003B0B0E /* EduTableViewController.swift */,
 			);
 			path = TablePractice;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				430BCCF02301EAD7003B0B0E /* ViewController.swift in Sources */,
 				430BCCEE2301EAD7003B0B0E /* AppDelegate.swift in Sources */,
+				430BCD1C2301F34D003B0B0E /* EduTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
